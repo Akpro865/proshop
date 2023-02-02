@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fbbe952.css",
+    "main.js": "/static/js/main.d4995eb2.js",
+    "static/media/banner6.png": "/static/media/banner6.80fb93a6be3d465672da.png",
+    "static/media/banner4.png": "/static/media/banner4.9a050e810f2a795db218.png",
+    "static/media/offer.jpg": "/static/media/offer.fee9b37ac3cbb9c6260e.jpg",
+    "static/media/banner5.png": "/static/media/banner5.a22dac6bad9a9ffef26d.png",
+    "static/media/banner2.gif": "/static/media/banner2.c27a286b284350a3f88b.gif",
+    "static/media/banner.gif": "/static/media/banner.1944f27c65abdfb40139.gif",
+    "static/media/banner3.jpg": "/static/media/banner3.39625c458e3a02bd5f99.jpg",
+    "static/media/cover.png": "/static/media/cover.dca560e429334cc95ba1.png",
+    "static/media/profile.jpg": "/static/media/profile.6123ee424edfd44866d3.jpg",
+    "static/media/profile.png": "/static/media/profile.6123ee424edfd44866d3.png",
+    "static/media/brands.png": "/static/media/brands.42efc976458c8c5ef788.png",
+    "static/media/google.png": "/static/media/google.0590aaf0fe36e23dcc8c.png",
+    "static/media/emptyCart.webp": "/static/media/emptyCart.d17797a9a7e18f4ec8da.webp",
+    "static/media/linked.png": "/static/media/linked.6892b3ae328c7a1e055f.png",
+    "static/media/default-monochrome.svg": "/static/media/default-monochrome.c15ef0797cabbecf9920ff73df97e8e6.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/remove.svg": "/static/media/remove.a118e9c61a86a45ffb27e884f6769a23.svg",
+    "index.html": "/index.html",
+    "static/media/cart.svg": "/static/media/cart.eecf18190aaf21b9680212398ef51656.svg",
+    "static/media/bag.svg": "/static/media/bag.0ef9a526ce9c79095ba8c11881e8d955.svg",
+    "main.7fbbe952.css.map": "/static/css/main.7fbbe952.css.map",
+    "main.d4995eb2.js.map": "/static/js/main.d4995eb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbbe952.css",
+    "static/js/main.d4995eb2.js"
+  ]
+}
